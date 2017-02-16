@@ -1,0 +1,4 @@
+com\rivera\SessionFactoryProvider.class
+com\rivera\User.class
+com\rivera\UserDAO.class
+com\rivera\UserDAOTest.class
