@@ -33,8 +33,17 @@ public class UserDAO {
        return user;
     }
 
-    public void updateUser() {
+    public void updateUser(String userName) {
+        Session session = SessionFactoryProvider.getSessionFactory().openSession();
+        User user = null;
+        try {
 
+            user = (User)session.get(User.class, userName);
+
+        } catch (Exception exception) {
+
+            log.error("Problem with updating user.");
+        }
     }
 
     public void removeUser(int userId) {
