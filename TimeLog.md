@@ -14,3 +14,8 @@
 |2/11/17 | DOA and user set up | 4 | |
 |2/12/17 | Still trying to figure out DAO | 7 | |
 |2/13/17 | Resetting up project | 4 | |
+|2/16/17 | Readings | 2 | |
+|2/17/17 | Working on delpoyment part 1 and 2 | 2 | |
+|2/18/17 | Working on deployment part 3 | 2 | |
+|2/19/17 | Working on deployment part 4 | 2 | I cannot get logged into the manager app I do not think I set up the pass word correctly. The second file change looked different than the video. |
+|2/19/17 | Watch lectures for week 6 and worked on week 5 exercise | 5 | Set up the user roles table |
