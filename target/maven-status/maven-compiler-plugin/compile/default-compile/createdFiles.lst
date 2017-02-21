@@ -1,4 +1,3 @@
-com\rivera\SessionFactoryProvider.class
-com\rivera\User.class
-com\rivera\UserDAO.class
-com\rivera\UserDAOTest.class
+com\rivera\entity\User.class
+com\rivera\persistance\UserDAO.class
+com\rivera\persistance\SessionFactoryProvider.class
