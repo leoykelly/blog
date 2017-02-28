@@ -19,3 +19,9 @@
 |2/18/17 | Working on deployment part 3 | 2 | |
 |2/19/17 | Working on deployment part 4 | 2 | I cannot get logged into the manager app I do not think I set up the pass word correctly. The second file change looked different than the video. |
 |2/19/17 | Watch lectures for week 6 and worked on week 5 exercise | 5 | Set up the user roles table |
+|2/20/17 | Completed exercise 5 | 3| |
+|2/23/17 | Worked on activity 6 2 | 2| |
+|2/24/17 | Worked on activity 6 2| 2 | |
+|2/25/17 | Looking for ideas for team project | 3| |
+|2/26/17 | Redid exercise 6 2 and started 6 3 | 5 | |
+|2/27/17 |      |  |  | 
