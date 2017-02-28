@@ -24,4 +24,4 @@
 |2/24/17 | Worked on activity 6 2| 2 | |
 |2/25/17 | Looking for ideas for team project | 3| |
 |2/26/17 | Redid exercise 6 2 and started 6 3 | 5 | |
-|2/27/17 |      |  |  | 
+|2/27/17 | Finished activity 3 and watched week 7 videos | 4 |  | 
