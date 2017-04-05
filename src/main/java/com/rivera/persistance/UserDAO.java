@@ -33,6 +33,17 @@ public class UserDAO {
        return user;
     }
 
+    public User getUserByUserName(String user_name) {
+        Session session = SessionFactoryProvider.getSessionFactory().openSession();
+        User user = null;
+        try {
+            user = (User)session.get(User.class, user_name);
+        } catch (Exception exception) {
+            log.error("Hibrenate Exception");
+        }
+        return user;
+    }
+
     public void updateUser(String userName) {
         Session session = SessionFactoryProvider.getSessionFactory().openSession();
         User user = null;
@@ -50,7 +61,5 @@ public class UserDAO {
 
     }
 
-    public String getUserByUserName(String username) {
-        return username;
-    }
+
 }

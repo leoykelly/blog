@@ -1,0 +1,49 @@
+section{
+    background-image: none;
+}
+
+h1{
+    color: #FFD235;
+    font: 60px/18px Georgia, serif;
+    text-align: center;
+}
+
+.blogHeader{
+    font: italic bold 22px/30px Georgia, serif;
+    text-align: center;
+    color: black;
+}
+
+#blogPost{
+    background-image: url('../images/quil.jpg');
+    background-size: 100% 110%;
+    background-repeat: no-repeat;
+    padding: 1em 35em 15em 2em;
+    font: 16px/18px Georgia, serif;
+}
+
+.supportWarriors{
+    background-image: url('../images/parchmentPaper.png');
+    background-size: 100% 100%;
+}
+
+#scrollOne{
+    width: 50%;
+    float: left;
+    padding: 5em 8em 5em 8em;
+    margin-top: 5em;
+}
+
+#scrollTwo{
+    width: 50%;
+    float:right;
+    padding: 5em 8em 5em 8em;
+    margin-bottom: 2em;
+
+}
+
+.backButton{
+    background-color: white;
+    color: black;
+
+}
