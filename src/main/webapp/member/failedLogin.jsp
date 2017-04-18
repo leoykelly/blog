@@ -8,7 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Login Failed</title>
+
+    <link rel="stylesheet" type="text/css" media="all" href="../css/theme.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="../css/contact.css" />
+
 </head>
 <body>
     <h2>Invalid userid/password combination.</h2><br />

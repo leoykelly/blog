@@ -8,13 +8,16 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Registration</title>
     <link rel="stylesheet" type="text/css" media="all" href="../css/theme.css" />
-    <link rel="stylesheet" type="text/css" media="all" href="../css/blogHome.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="../css/registration.css" />
 </head>
 <body>
 <section>
+    <header>Register!</header>
   <form>
+
+
       <label>First Name:</label>
       <input type="text" />
 
@@ -33,6 +36,9 @@
       <br /><br />
       <label>Email:</label>
       <input type="email" />
+
+      <br /><br />
+      <input type="submit" value="Register" class="backButton" />
 
   </form>
 </section>

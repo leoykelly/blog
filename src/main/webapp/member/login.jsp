@@ -9,6 +9,10 @@
 <html>
 <head>
     <title>Title</title>
+
+    <link rel="stylesheet" type="text/css" media="all" href="../css/theme.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="../css/contact.css" />
+
 </head>
 <body>
     <h3>Please enter your userid and password below.</h3>

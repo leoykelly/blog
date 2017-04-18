@@ -1,10 +1,6 @@
 section{
-    background-repeat: repeat-y;
-    background-position: center center;
-    background-image: url('../images/greenBackground.jpg');
-    padding: 1em 0em 1em 0em;
+    background-image: none;
 }
-
 
 h1{
     color: #FFD235;
@@ -19,10 +15,10 @@ h1{
 }
 
 #blogPost{
-    background-image: url('../images/quil.jpg');
-    background-size: 100% 110%;
-    background-repeat: no-repeat;
-    padding: 1em 35em 15em 2em;
+    background-repeat: repeat-y;
+    background-position: center center;
+    background-image: url('../images/greenBackground.jpg');
+    padding: 1em 0em 1em 0em;
     font: 16px/18px Georgia, serif;
 }
 

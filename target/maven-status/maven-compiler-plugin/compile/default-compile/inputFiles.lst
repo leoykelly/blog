@@ -2,5 +2,8 @@ C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\entity\User.java
 C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\controller\RegistrationPage.java
 C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\persistance\SessionFactoryProvider.java
 C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\persistance\UserDAO.java
+C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\entity\BlogEntry.java
+C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\controller\BlogHomeServlet.java
 C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\controller\LoginPage.java
 C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\controller\Login.java
+C:\Users\Kelly\Documents\blogengine\src\main\java\com\rivera\persistance\BlogEntriesDAO.java
