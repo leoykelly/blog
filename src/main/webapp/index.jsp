@@ -9,11 +9,11 @@
     <article id="blogPost">
         <article class="col-7">
             <nav class="col-12">
-                <a href="blog-maven/loginPage" class="col-20"><img class="col-12"
+                <a href="loginPage" class="col-20"><img class="col-12"
                                                                src="images/novelScroll.png"
                                                                alt="Login Link" />
                 </a>
-                <a href="blog-maven/registrationPage" class="col-20"><img class="col-12"
+                <a href="registrationPage" class="col-20"><img class="col-12"
                                                                src="images/poetryScroll.png"
                                                                           alt="Register Link" /></a>
             </nav>

@@ -13,7 +13,7 @@ import java.io.IOException;
 @WebServlet(
 
         name = "Login",
-        urlPatterns = {"/login"}
+        urlPatterns = {"blog-maven/login"}
 
 )
 
@@ -28,7 +28,7 @@ public class Login extends HttpServlet {
 
         request.getSession().setAttribute("user", user);
 
-        response.sendRedirect("/");
+        response.sendRedirect("member/login.jsp");
 
     }
 

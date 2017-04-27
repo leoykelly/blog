@@ -1,5 +1,7 @@
 package com.rivera.controller;
 
+import com.rivera.engine.Blog;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -15,7 +17,7 @@ import java.io.IOException;
 
 @WebServlet(
 
-        urlPatterns = {"blog-maven/"}
+        urlPatterns = {"/blog-maven"}
 
 )
 public class BlogHomeServlet extends HttpServlet {
@@ -24,7 +26,11 @@ public class BlogHomeServlet extends HttpServlet {
                 throws ServletException, IOException {
 
 
-            response.sendRedirect("index.jsp");
+        Blog blog = new Blog();
+        blog.listEntires();
+
+
+        response.sendRedirect("index.jsp");
 
     }
 }

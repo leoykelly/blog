@@ -5,7 +5,7 @@ import org.apache.log4j.Logger;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
-
+import java.util.List;
 
 
 /**
@@ -34,4 +34,16 @@ public class BlogEntriesDAO {
         }
         return blogEntry;
     }
+
+   public List<BlogEntry> getAllEntries() {
+        Session session = SessionFactoryProvider.getSessionFactory().openSession();
+        BlogEntry blogEntry = null;
+        List<BlogEntry> blogEntryList = null;
+        try {
+            blogEntry = (BlogEntry) session.createCriteria(BlogEntry.class).list();;
+        } catch (Exception exception) {
+            log.error("Hibrenate Exception");
+        }
+        return blogEntryList;
+   }
 }
