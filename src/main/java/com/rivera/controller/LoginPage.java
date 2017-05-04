@@ -10,7 +10,7 @@ import java.io.IOException;
 @WebServlet(
 
         name = "Login",
-        urlPatterns = {"/loginPage"}
+        urlPatterns = {"member/loginPage"}
 
 )
 

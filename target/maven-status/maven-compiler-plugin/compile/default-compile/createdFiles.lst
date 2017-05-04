@@ -1,4 +1,7 @@
+com\rivera\persistance\BlogEntriesDAO.class
+com\rivera\controller\AddBlogPage.class
 com\rivera\controller\RegistrationPage.class
+com\rivera\controller\SignInPage.class
 com\rivera\entity\BlogEntry.class
 com\rivera\entity\User.class
 com\rivera\persistance\UserDAO.class
@@ -6,5 +9,4 @@ com\rivera\persistance\SessionFactoryProvider.class
 com\rivera\engine\Blog.class
 com\rivera\controller\LoginPage.class
 com\rivera\controller\BlogHomeServlet.class
-com\rivera\persistance\BlogEntriesDAO.class
 com\rivera\controller\Login.class

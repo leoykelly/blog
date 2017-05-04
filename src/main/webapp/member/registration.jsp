@@ -40,6 +40,11 @@
       <br /><br />
       <input type="submit" value="Register" class="backButton" />
 
+
+      <br /><br /><br /><br />
+    <article class="row">
+        <a href="/blog-maven" class="backButton">Home</a>
+    </article>
   </form>
 </section>
 

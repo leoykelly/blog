@@ -1,5 +1,6 @@
 section{
     background-image: none;
+
 }
 
 h1{
@@ -23,7 +24,7 @@ h1{
 }
 
 .supportWarriors{
-    background-image: url('../images/parchmentPaper.png');
+    background-image: url('../images/greenBackground.jpg');
     background-size: 100% 100%;
 }
 
@@ -47,3 +48,14 @@ h1{
     color: black;
 
 }
+
+.papy {
+    font-family: Papyrus, fantasy;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: black;
+}
+
